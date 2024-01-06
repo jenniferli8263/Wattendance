@@ -4,8 +4,8 @@
 Wattendance is a full-stack web application that uses facial recognition to automatically record/track attendance for the University of Waterloo's Software Engineering 2028 class.
 
 # Technologies
-Frontend: React.js, Material UI
-Backend: Node.js, MySQL, AWS
-Other: Raspberry Pi, Python, OpenCV
-
+Frontend: React.js, Material UI\
+Backend: Node.js, MySQL, AWS\
+Other: Raspberry Pi, Python, OpenCV\
+\
 The facial recognition model was trained with OpenCV on the Raspberry Pi, and upon recognizing a student, it will send attendance data via an API request to our website, which will then update the user's profile in real-time.
